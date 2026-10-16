@@ -14,7 +14,7 @@ This project explores the fundamentals of real-time 3D game programming. It crea
 
 The world is stored in a fixed **30 × 20 × 30** grid. Its initial terrain contains layers of stone, dirt, and grass. A first-person camera, ray-based block selection, basic movement physics, exposed-block rendering, background music, and a simple on-screen HUD bring the prototype together.
 
-**Author:** Ren  
+**Author:** Divyansh Rajput
 **Academic context:** First semester · MITS, Gwalior  
 **Language:** C++  
 **Graphics/audio library:** raylib
@@ -221,4 +221,4 @@ No license has been selected for this repository yet. Until a license is added, 
 
 ---
 
-**Built by Ren · First-semester project · MITS, Gwalior**
+**Built by Divyansh Rajput · First-semester project · MITS, Gwalior**
