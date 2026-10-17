@@ -217,7 +217,7 @@ For bug reports, include your operating system, compiler, raylib setup, steps to
 
 ## License
 
-No license has been selected for this repository yet. Until a license is added, others do not automatically have permission to copy, modify, or redistribute the code. If you plan to publish the project as open source, choose a license (for example, MIT) and add its full text in a `LICENSE` file. Only use the MIT license or redistribute third-party assets if you have the right to do so.
+No license has been selected for this repository yet. Until a license is added, others do not automatically have permission to copy, modify, or redistribute the code. 
 
 ---
 
