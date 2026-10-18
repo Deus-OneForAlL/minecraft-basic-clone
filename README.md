@@ -6,7 +6,7 @@ A small first-person, block-based 3D sandbox built with **C++** and **raylib** a
 [![Graphics: raylib](https://img.shields.io/badge/Graphics-raylib-000000)](https://www.raylib.com/)
 [![Project status](https://img.shields.io/badge/Status-Learning%20Prototype-orange)](#current-limitations)
 
-> This is an educational Minecraft-inspired prototype, not a complete recreation of Minecraft.
+> This is an educational Minecraft-inspired prototype, not a complete recreation of Minecraft. You should know that
 
 ## Overview
 
