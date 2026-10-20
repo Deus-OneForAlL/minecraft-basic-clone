@@ -1,4 +1,4 @@
-# Minecraft-Inspired Voxel Sandbox
+# Minecraft-Inspired Voxel Sandbox   
 
 A small first-person, block-based 3D sandbox built with **C++** and **raylib** as a first-semester programming project at **Madhav Institute of Technology and Science (MITS), Gwalior**.
 
